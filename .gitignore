@@ -4,3 +4,7 @@
 .vscode/launch.json
 .vscode/ipch
 .vscode/extensions.json
+pkg/*
+bin/staticcheck
+bin/gopls
+src/Config.h
